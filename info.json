@@ -1,0 +1,10 @@
+ {
+    "name": "tree-enemies",
+    "version": "0.1.0",
+    "title": "Trees are the real enemy of Factorio",
+    "author": "Gobbel",
+    "homepage": "https://github.com/Gobbel2000/tree-enemies",
+    "factorio_version": "0.17",
+    "dependencies": ["base >= 0.17"],
+    "description": "Swaps the role of the biters and trees, because trees are the real enemie of factorio."
+}
